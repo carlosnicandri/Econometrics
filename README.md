@@ -1,0 +1,2 @@
+# Econometrics
+Curso Econometría
